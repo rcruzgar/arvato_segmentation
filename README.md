@@ -28,7 +28,7 @@ were targets of a marketing campaign; 42 982 people (rows) x 367 (columns). This
 - *Udacity_MAILOUT_052018_TEST.csv*: Demographics data for individuals who were
 targets of a marketing campaign; 42 833 people (rows) x 366 (columns).
 
-I am not allowed to publish the data provided by Arvato Financial Services due to the terms and conditions. However, a description of the different features can be found [here](https://github.com/rcruzgar/arvato_segmentation/blob/master/DIAS Information Levels - Attributes 2017.xlsx).
+I am not allowed to publish the data provided by Arvato Financial Services due to the terms and conditions. However, a description of the different features can be found [here](<https://github.com/rcruzgar/arvato_segmentation/blob/master/DIAS Information Levels - Attributes 2017.xlsx>).
 
 
 
